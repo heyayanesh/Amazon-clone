@@ -10,7 +10,7 @@ Features
 
 - Responsive design for mobile, tablet, and desktop screens.
 
-- Fully built with HTML, CSS, and vanilla JavaScript — no frameworks.
+- Fully built with HTML, CSS, and JavaScript — no frameworks.
 
 - Provides hands-on experience with DOM manipulation, events, and styling.
 
